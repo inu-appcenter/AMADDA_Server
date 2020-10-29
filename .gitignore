@@ -1,5 +1,4 @@
 upload
-config
 log
 **/node_modules
 **/.env
