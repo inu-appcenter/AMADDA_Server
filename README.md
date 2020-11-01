@@ -11,8 +11,6 @@ Server
 function
 ========
 
-* * * * *
-
 #### User
 
 |기능|명세|todo|비고|
@@ -82,8 +80,6 @@ function
 Database
 ========
 
-* * * * *
-
 -   MariaDB 사용 (google cloud server)
 
 -   OracleDB 사용 (인천대 전산원 server) → 교내 강의 정보 테이블 이용
@@ -137,8 +133,6 @@ Database
 
 API
 ===
-
-* * * * *
 
 -   HOST\_DOMAIN : [http://117.16.191.242:7005](http://117.16.191.242:7005/)
 
@@ -207,8 +201,6 @@ API
 
 etc
 ===
-
-* * * * *
 
 -   앱센터 통합 서버 api
 
